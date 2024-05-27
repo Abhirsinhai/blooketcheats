@@ -864,12 +864,12 @@
                     }).then(e => e.json());
                     if (r.success) {
                         let i = s.initializeApp({
-                            apiKey: "AIzaSyCA-cTOnX19f6LFnDVVsHXya3k6ByP_MnU",
-                            authDomain: "blooket-2020.firebaseapp.com",
-                            projectId: "blooket-2020",
-                            storageBucket: "blooket-2020.appspot.com",
-                            messagingSenderId: "741533559105",
-                            appId: "1:741533559105:web:b8cbb10e6123f2913519c0",
+                            apiKey: "",
+                            authDomain: "",
+                            projectId: "",
+                            storageBucket: "",
+                            messagingSenderId: "",
+                            appId: "",
                             measurementId: "G-S3H5NGN10Z",
                             databaseURL: r.fbShardURL
                         }, t);
